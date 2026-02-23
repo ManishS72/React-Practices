@@ -1,11 +1,13 @@
 import './App.css'
-import Footer from './Footer';
+// import Footer from './Footer';
+import Profile from "./Profile";
 
 function App() {
   return (
-    <div>
-      <Footer/>
-    </div>
+    <>
+      {/* <Footer/> */}
+      <Profile/>
+    </>
   );
 }
 

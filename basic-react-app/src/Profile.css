@@ -1,0 +1,15 @@
+
+.profile
+{
+    width: 500px;
+    height: 500px;
+    font-size: 23;
+    font-weight: 100;
+    color:black;
+    padding: 23px;
+    margin: 23px;
+    border-bottom: 10px;
+    background-color:white;
+    text-align: center;
+    border: 10px solid red;
+}
