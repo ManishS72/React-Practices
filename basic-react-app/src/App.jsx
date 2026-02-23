@@ -1,7 +1,12 @@
 import './App.css'
+import Footer from './Footer';
 
 function App() {
-  return <button>Hello World</button>
+  return (
+    <div>
+      <Footer/>
+    </div>
+  );
 }
 
 export default App;
