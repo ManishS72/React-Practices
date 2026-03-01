@@ -9,6 +9,7 @@ function Profile() {
       <p>Role: React Learner</p>
       <p>City: Noida</p>
       <p>Age : 23</p>
+      <p>Location : Noida</p>
     </div>
   );
 }
