@@ -10,6 +10,7 @@ function Profile() {
       <p>City: Noida</p>
       <p>Age : 23</p>
       <p>Location : Noida</p>
+      <p>Hello</p>
     </div>
   );
 }
