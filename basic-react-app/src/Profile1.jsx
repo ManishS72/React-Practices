@@ -5,6 +5,7 @@ function Profile1(props)
         <div>
             <h1>Name : {props.name}</h1>
             <p>Age : {props.age}</p>
+            <p>College : {props.college}</p>
         </div>
     );
 }
